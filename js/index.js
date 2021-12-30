@@ -2,7 +2,7 @@ console.log("This is my index js file");
 
 // Initialize the news api parameters
 let source = 'the-times-of-india';
-let apiKey = '04effdd202104c42ae300d8d3e6f898e'
+let apiKey = '****'   // <== api key from newsapi.org
 
 // Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
